@@ -14,6 +14,7 @@ alumno[1].append(10)
 
 print(alumno)
 
+print(empleado)
 
 
 candidatos=[ ("juan",[("cordoba",100),("buenos aires",200)]) , ("ana", [("cordoba",55)]) , ("luis", [("buenos aires",20)]) ]
